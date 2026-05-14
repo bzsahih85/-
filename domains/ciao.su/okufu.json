@@ -1,0 +1,19 @@
+{
+  "description": "okufu.ciao.su - 由配置生成器创建",
+  "subdomain": "okufu",
+  "domain": "ciao.su",
+  "owner": {
+    "name": "yuregfteffreyu",
+    "github": "bzsahih85",
+    "email": "yuregfteffreyugreu.guy@gmail.com"
+  },
+  "records": [
+    {
+      "type": "A",
+      "name": "@",
+      "content": "38.165.42.120",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
